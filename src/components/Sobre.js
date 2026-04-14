@@ -1,4 +1,4 @@
-import foto from "../foto.jpg";
+import foto from "./foto.jpg";
 
 function Sobre() {
   return (
