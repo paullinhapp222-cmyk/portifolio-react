@@ -9,8 +9,8 @@ function App() {
         <h1>Ana Paula</h1>
 
         <nav>
-          <a href="https://google.com">Sobre mim</a>
-          <a href="https://google.com">Projetos</a>
+          <a href="#sobre">Sobre mim</a>
+          <a href="#projetos">Projetos</a>
         </nav>
       </header>
 
