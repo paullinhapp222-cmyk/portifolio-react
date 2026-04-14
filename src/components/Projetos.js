@@ -24,9 +24,7 @@ function Projetos() {
           <div className="card" key={index}>
             <h3>{projeto.nome}</h3>
             <p>{projeto.descricao}</p>
-<a href="https://github.com/paullinhapp222-cmyk/projeto" target="_blank">
-  Ver projeto
-</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">Ver projeto</a>
           </div>
         ))}
       </div>
